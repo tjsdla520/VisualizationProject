@@ -1,2 +1,4 @@
-# visualizationProject
+## visualizationProject
  
+###데이터 시각화 프로젝트 전체파일입니다.
+- 여러 그래프와 워드클라우드, 지도로 위치데이터를 구현하였습니다.
